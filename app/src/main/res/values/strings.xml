@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="reset">Reset</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="clear_all">Clear All</string>
+    <string name="app_info">App Info</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_note_detail">NoteDetailActivity</string>
+
+    <string name="color">com.example.androidproject.note.color</string>
+    <string name="id">com.example.androidproject.login.id</string>
+    <string name="checkbox">com.example.androidproject.login.checkbox</string>
+
+    <string name="title_activity_add_note">AddNoteActivity</string>
+    <string name="close">close</string>
+    <string name="quicknotes">QuickNotes</string>
+    <string name="version_10_15_7">Version 10.15.7</string>
+    <string name="contact_us_at_heeju_quicknotes_com">Contact us at DevJP@quicknotes.com</string>
+    <string name="having_a_problem">Having a problem?</string>
+    <string name="written_by_heeju_park">Written by Heeju Park</string>
+    <string name="color_setting">Color Setting</string>
+    <string name="pick_color">Pick color</string>
+    <string name="setting">Setting</string>
+    <string name="background_color">Background Color</string>
+    <string name="remember_user_id">Remember User ID</string>
+</resources>
