@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/drawable/ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/layout_content_add_note.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/layout/content_add_note.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/drawable_background_note_color_4.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/drawable/background_note_color_4.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/layout_activity_note_detail.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/layout/activity_note_detail.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/drawable_background_note_color_2.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/drawable/background_note_color_2.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/layout_activity_setting.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/layout_activity_edit_note.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/layout/activity_edit_note.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/menu_close_menu.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/menu/close_menu.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/layout_content_note_detail.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/layout/content_note_detail.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/drawable_ic_baseline_done_24.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/drawable/ic_baseline_done_24.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/drawable_ic_baseline_sticky_note_2_24.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/drawable/ic_baseline_sticky_note_2_24.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/drawable_background_note_color_5.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/drawable/background_note_color_5.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/layout_note_layout.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/layout/note_layout.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/layout_activity_app_info.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/layout/activity_app_info.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/layout_activity_register_user.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/layout/activity_register_user.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/drawable_background_setting.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/drawable/background_setting.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/drawable_background_note_color_3.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/drawable/background_note_color_3.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/layout_activity_note.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/layout/activity_note.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/drawable_ic_baseline_save_24.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/drawable/ic_baseline_save_24.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/menu_note_menu.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/menu/note_menu.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/layout_activity_forgot_password.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/layout_activity_add_note.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/layout/activity_add_note.xml"
+    },
+    {
+        "merged": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/build/intermediates/res/merged/debug/drawable_background_note_color_1.xml.flat",
+        "source": "/Users/HeejuPark/Documents/2021 Spring/BCS 421 Android App Dev/Project/AndroidProject/app/src/main/res/drawable/background_note_color_1.xml"
+    }
+]
